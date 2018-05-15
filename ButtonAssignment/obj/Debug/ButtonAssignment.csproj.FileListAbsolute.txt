@@ -1,0 +1,9 @@
+c:\users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\bin\Debug\ButtonAssignment.exe.config
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\obj\Debug\ButtonAssignment.csprojResolveAssemblyReference.cache
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\obj\Debug\ButtonAssignment.Form1.resources
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\obj\Debug\ButtonAssignment.Properties.Resources.resources
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\obj\Debug\ButtonAssignment.csproj.GenerateResource.Cache
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\bin\Debug\ButtonAssignment.exe
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\bin\Debug\ButtonAssignment.pdb
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\obj\Debug\ButtonAssignment.exe
+C:\Users\s178020\documents\visual studio 2015\Projects\ButtonAssignment\ButtonAssignment\obj\Debug\ButtonAssignment.pdb
